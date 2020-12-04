@@ -4,8 +4,8 @@ Predicting whether a particular transaction is a Fraudulent transaction or Genui
 Dealing with imbalanced dataset by Random UnderSampling and SMOTE technique. 
 
 Algorithms:
-* Logistic Regression,
-* Support Vector Machine,
+* Logistic Regression
+* Support Vector Machine
 * KNears Neighbors
-* GridSearchCV,
+* GridSearchCV
 * AUC
